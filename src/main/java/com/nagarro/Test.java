@@ -6,7 +6,9 @@ public class Test implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		// TODO Auto-generated method stub
+		System.out.print("Hello");
+		System.out.print("Hello");
+		
 
 	}
 
