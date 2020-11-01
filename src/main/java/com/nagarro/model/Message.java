@@ -2,7 +2,8 @@ package com.nagarro.model;
 
 public class Message {
 	private void psvm() {
-		System.out.println("helo");
+		int a=10;
+		System.out.println(a);
 
 	}
 
